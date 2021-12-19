@@ -1,6 +1,13 @@
 ## Portfolio
 
 ---
+###  Data Driven optimization
+[Data Driven optimization](google.com)
+<img src="images/scraped_data.gif?raw=true"/> <br>
+<img src="images/keywords.png?raw=true"/> 
+
+	Tools: Python, Selenium, Matplotlib
+
 
 ### Data Exploration Projects 
 [Scraping and Analyzing Datascience jobs from Glassdoor](https://nbviewer.jupyter.org/github/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Scraping_and_analyzing_glassdoor_data.ipynb)
