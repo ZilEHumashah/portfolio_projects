@@ -2,7 +2,7 @@
 
 ---
 ###  Data Driven optimization
-[Data Driven optimization](google.com)
+[Data Driven optimization](https://google.com)
 <img src="images/scraped_data.gif?raw=true"/> <br>
 <img src="images/keywords.png?raw=true"/> 
 
